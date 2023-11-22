@@ -20,6 +20,8 @@ git clone https://github.com/facebookresearch/detectron2.git /ssd_scratch/cvit/b
 ### 2. Setup the ViNet model
 [https://github.com/samyak0210/ViNet](https://github.com/samyak0210/ViNet)
 
+Pre-trained weights file for ViNet can be found [here](https://iiitaphyd-my.sharepoint.com/:u:/g/personal/bhav_beri_research_iiit_ac_in/ESvHZHc9RqpKiU5POJ6TUuUB5Q0Wz7-xgz49KnAUclPung)
+
 ### 3. Get the ViNet inferences on the video/s you want to run
 
 ### 4. Run the code. Change the paths below as required (output, input, config)
