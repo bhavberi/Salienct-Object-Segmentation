@@ -20,7 +20,7 @@ git clone https://github.com/facebookresearch/detectron2.git /ssd_scratch/cvit/b
 ```
 
 ### 2. Setup the ViNet model
-[https://github.com/samyak0210/ViNet](https://github.com/samyak0210/ViNet)
+[https://github.com/samyak0210/ViNet](https://github.com/samyak0210/ViNet) or [https://github.com/bhavberi/ViNet-Saliency](https://github.com/bhavberi/ViNet-Saliency/tree/master)
 
 Pre-trained weights file for ViNet can be found [here](https://iiitaphyd-my.sharepoint.com/:u:/g/personal/bhav_beri_research_iiit_ac_in/ESvHZHc9RqpKiU5POJ6TUuUB5Q0Wz7-xgz49KnAUclPung)
 
