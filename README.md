@@ -10,6 +10,8 @@ The pipeline consists of 3 stages:
 
     - **Getting the top n (here n=2) salient objects**. For this, the background segmentations are removed from the results of detectron2, and then the vinet mask is overlayed on the remaining segmentation results, and the segmentations with the highest scores are picked and shown.
 
+_Note_: This approach may not give the best results possibly, but due to the good performance of ViNet and Detectron2, it is able to give good results.
+
 ### 1. Install Detectron2 (Change path as required)
 ```bash
 pip install 'git+https://github.com/facebookresearch/detectron2.git'
